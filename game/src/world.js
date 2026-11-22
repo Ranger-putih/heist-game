@@ -73,7 +73,7 @@ function buildVaultLayout() {
       { name: 'Sena', waypoints: [{ x: 830, y: 296 }, { x: 830, y: 566 }] },
     ],
     cameraMounts: [
-      { name: 'CAM-1', x: 640, y: 62, baseAngle: Math.PI / 2, sweep: 0.96 },
+      { name: 'CAM-1', x: 640, y: 72, baseAngle: Math.PI / 2, sweep: 0.96 },
       { name: 'CAM-2', x: 1246, y: 426, baseAngle: Math.PI, sweep: 0.88 },
     ],
   };
